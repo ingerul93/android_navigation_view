@@ -1,0 +1,42 @@
+# Captures
+/captures
+
+# Built application files
+*.apk
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Gradle generated files
+.gradle/
+build/
+*/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Signing files
+.signing/
+
+# Java class files
+*.class
+
+# Intellij
+*.iml
+.idea/
+
+# Logs
+/log
+
+#Native
+.externalNativeBuild
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
